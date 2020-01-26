@@ -1,4 +1,4 @@
-npm i - set up a project
+npm i - set up a project,
 npm start - start a project
 
 A few words about project:
